@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: sirenta.infotech.umm.ac.id
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
